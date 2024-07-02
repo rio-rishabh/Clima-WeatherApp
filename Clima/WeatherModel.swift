@@ -1,10 +1,4 @@
-//
-//  WeatherModel.swift
-//  Clima
-//
-//  Created by Rishabh Sharma on 16/05/24.
-//  Copyright © 2024 App Brewery. All rights reserved.
-//
+
 
 import Foundation
 

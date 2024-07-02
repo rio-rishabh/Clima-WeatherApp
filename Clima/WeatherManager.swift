@@ -1,10 +1,4 @@
-//
-//  WeatherManager.swift
-//  Clima
-//
-//  Created by Rishabh Sharma on 07/05/24.
-//  Copyright © 2024 App Brewery. All rights reserved.
-//
+
 
 import Foundation
 import CoreLocation
